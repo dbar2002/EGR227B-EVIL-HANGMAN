@@ -1,5 +1,4 @@
-import org.testng.Assert;
-import org.testng.annotations.Test;
+import org.junit.*;
 
 import java.io.File;
 import java.io.FileNotFoundException;
